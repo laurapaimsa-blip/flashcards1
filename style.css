@@ -4,12 +4,12 @@ padding:0;
 }
 
 .cabecalho {
-    padding: 10px 15px;
+    padding: 15px 20px;
 }
 
 .cartao {
-    width: 60px;
-    height: 20px;
+    width: 160px;
+    height: 200px;
 }
 
 .cartao-frente, .cartao-verso {
